@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1730150954182" clover="3.2.0">
+  <project timestamp="1730150954183" name="All files">
+    <metrics statements="28" coveredstatements="15" conditionals="13" coveredconditionals="2" methods="7" coveredmethods="2" elements="48" coveredelements="19" complexity="0" loc="28" ncloc="28" packages="1" files="1" classes="1"/>
+    <file name="hoteles.controller.ts" path="/home/david/Documentos/testBackend/src/controllers/hoteles.controller.ts">
+      <metrics statements="28" coveredstatements="15" conditionals="13" coveredconditionals="2" methods="7" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="62" count="1" type="cond" truecount="2" falsecount="1"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="66" count="3" type="stmt"/>
+      <line num="67" count="3" type="stmt"/>
+      <line num="68" count="3" type="stmt"/>
+      <line num="69" count="3" type="stmt"/>
+      <line num="70" count="3" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="94" count="1" type="stmt"/>
+      <line num="95" count="0" type="stmt"/>
+      <line num="97" count="0" type="stmt"/>
+      <line num="99" count="0" type="stmt"/>
+      <line num="101" count="0" type="stmt"/>
+      <line num="103" count="0" type="stmt"/>
+      <line num="105" count="0" type="stmt"/>
+      <line num="109" count="0" type="stmt"/>
+      <line num="122" count="0" type="stmt"/>
+      <line num="129" count="0" type="stmt"/>
+      <line num="130" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+  </project>
+</coverage>
